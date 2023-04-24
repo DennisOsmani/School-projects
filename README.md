@@ -1,7 +1,7 @@
 # School-projects
 
 ## Info
-This repo contains the bigger groupprojects from school.
+Dette er et repo for alle skole prosjekter jeg har jobbet med i løpet av min tid som dataingeniør student på HVL.
 
 ## What I've learned from these projects
 
