@@ -17,9 +17,9 @@ import oblig2.web.service.SearchService;
 @Controller
 public class Search {
 	
-	@Autowired NewUserService us; 
-	@Autowired SearchService ss;
-	@Autowired RentalOfficeRepo roRepo;
+//	@Autowired NewUserService us; 
+//	@Autowired SearchService ss;
+//	@Autowired RentalOfficeRepo roRepo;
 	
 	
 	
