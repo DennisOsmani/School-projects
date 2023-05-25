@@ -5,6 +5,8 @@ Dette er et repo for alle skole prosjekter jeg har jobbet med i løpet av min ti
 
 ## Hva jeg har lært på de ulike prosjektene
 
+- Her har jeg lært å samarbede med flere personer over større prosjekter.
+- Bruk av agile metoder og modeller for å planelegge og utvikle prosjektene (Scrum, Kanban, modelleringer)
 - 
 
 ## Personer jeg har jobbet sammen med
